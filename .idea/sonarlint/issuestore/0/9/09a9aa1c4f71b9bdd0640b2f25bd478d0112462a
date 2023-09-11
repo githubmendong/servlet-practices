@@ -1,0 +1,12 @@
+
+h
+java:S1192"RDefine a constant instead of duplicating this literal "doGet(...) called" 3 times.(óĞ
+@	java:S106"+Replace this use of System.out by a logger.(ÃŒäÁ
+@	java:S106"+Replace this use of System.out by a logger.(õ¯êş
+@	java:S106"+Replace this use of System.out by a logger.(óĞ
+@	java:S106"+Replace this use of System.out by a logger.(óĞ
+@	java:S106"+Replace this use of System.out by a logger.(óĞ
+E	java:S106!"+Replace this use of System.out by a logger.(¢¼ïËûÿÿÿÿ
+z
+java:S1989""_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(®Ó‘ûÿÿÿÿÿ
+E	java:S106'"+Replace this use of System.out by a logger.(½Ãóãúÿÿÿÿ

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="helloweb" />
+        <module name="jstlel" />
+        <module name="emaillist01" />
+        <module name="emillist02" />
+        <module name="guestbook02" />
+        <module name="guestbook01" />
+        <module name="emaillist02" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="emillist02" target="11" />
+      <module name="guestbook" target="1.8" />
+      <module name="guestbook (1)" target="1.8" />
+      <module name="guestbook (2)" target="1.8" />
+      <module name="guestbook2" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

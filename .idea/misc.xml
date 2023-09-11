@@ -9,12 +9,15 @@
         <option value="$PROJECT_DIR$/helloweb/pom.xml" />
         <option value="$PROJECT_DIR$/emaillist01/pom.xml" />
         <option value="$PROJECT_DIR$/emaillist02/pom.xml" />
+        <option value="$PROJECT_DIR$/jstlel/pom.xml" />
+        <option value="$PROJECT_DIR$/guestbook01/pom.xml" />
+        <option value="$PROJECT_DIR$/guestbook02/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
-        <option value="$PROJECT_DIR$/emaillist01/pom.xml" />
-        <option value="$PROJECT_DIR$/jstlel/pom.xml" />
+        <option value="$PROJECT_DIR$/guestbook/pom.xml" />
+        <option value="$PROJECT_DIR$/guestbook2/pom.xml" />
       </set>
     </option>
   </component>
