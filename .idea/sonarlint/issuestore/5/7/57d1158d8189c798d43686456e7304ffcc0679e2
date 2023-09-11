@@ -2,13 +2,7 @@
 d
 java:S11923"GDefine a constant instead of duplicating this literal "error:" 3 times.(Œı’è8¹Æùë¦1
 _
-java:S2259P"BA "NullPointerException" could be thrown; "conn" is nullable here.(Ä×Óù8ªÇùë¦1
-_
 java:S2259o"BA "NullPointerException" could be thrown; "conn" is nullable here.(Ä×Óù8ªÇùë¦1
-_
-java:S2259"BA "NullPointerException" could be thrown; "conn" is nullable here.(Ä×Óù8ªÇùë¦1
-l
-java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ä×Óù8ªÇùë¦1
 G	java:S1063"+Replace this use of System.out by a logger.(Œı’è8³Çùë¦1
 G	java:S106X"+Replace this use of System.out by a logger.(Œı’è8·Çùë¦1
 G	java:S106t"+Replace this use of System.out by a logger.(Œı’è8ºÇùë¦1

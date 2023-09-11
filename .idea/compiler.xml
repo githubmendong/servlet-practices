@@ -21,6 +21,7 @@
       <module name="guestbook (1)" target="1.8" />
       <module name="guestbook (2)" target="1.8" />
       <module name="guestbook2" target="1.8" />
+      <module name="servet-practices3" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,14 +1,19 @@
 package com.poscodx.jstlel.servlets;
 
 
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
-public class _01Servlet extends HttpServlet {
+public class _01Servlet {
 	private static final long serialVersionUID = 1L;
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+
+
 		// 값
 		int iVal = 10;
 		long lVal = 10L;
